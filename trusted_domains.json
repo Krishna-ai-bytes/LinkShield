@@ -1,0 +1,152 @@
+{
+    "technology": [
+        "google.com",
+        "microsoft.com",
+        "apple.com",
+        "meta.com",
+        "intel.com",
+        "amd.com",
+        "nvidia.com",
+        "ibm.com",
+        "oracle.com",
+        "adobe.com",
+        "cisco.com",
+        "dell.com",
+        "hp.com",
+        "lenovo.com",
+        "samsung.com",
+        "sony.com",
+        "lg.com"
+    ],
+
+    "social_media": [
+        "facebook.com",
+        "instagram.com",
+        "linkedin.com",
+        "x.com",
+        "reddit.com",
+        "pinterest.com",
+        "snapchat.com",
+        "tiktok.com",
+        "telegram.org"
+    ],
+
+    "shopping": [
+        "amazon.com",
+        "amazon.in",
+        "flipkart.com",
+        "ebay.com",
+        "walmart.com",
+        "etsy.com",
+        "myntra.com",
+        "ajio.com",
+        "meesho.com"
+    ],
+
+    "banking_and_finance": [
+        "paypal.com",
+        "icicibank.com",
+        "hdfcbank.com",
+        "sbi.co.in",
+        "axisbank.com",
+        "kotak.com",
+        "bankofbaroda.in",
+        "pnbindia.in",
+        "canarabank.com",
+        "indusind.com",
+        "yesbank.in",
+        "idfcfirstbank.com",
+        "americanexpress.com",
+        "visa.com",
+        "mastercard.com"
+    ],
+
+    "indian_government": [
+        "india.gov.in",
+        "mygov.in",
+        "uidai.gov.in",
+        "incometax.gov.in",
+        "gst.gov.in",
+        "digilocker.gov.in",
+        "passportindia.gov.in",
+        "rbi.org.in",
+        "mca.gov.in",
+        "epfindia.gov.in",
+        "irctc.co.in",
+        "parivahan.gov.in",
+        "npci.org.in"
+    ],
+
+    "entertainment": [
+        "youtube.com",
+        "netflix.com",
+        "spotify.com",
+        "twitch.tv",
+        "disneyplus.com",
+        "primevideo.com",
+        "hotstar.com",
+        "imdb.com"
+    ],
+
+    "developer_platforms": [
+        "github.com",
+        "gitlab.com",
+        "bitbucket.org",
+        "stackoverflow.com",
+        "npmjs.com",
+        "pypi.org",
+        "docker.com",
+        "kaggle.com"
+    ],
+
+    "cloud_services": [
+        "amazonaws.com",
+        "aws.amazon.com",
+        "azure.microsoft.com",
+        "cloud.google.com",
+        "cloudflare.com",
+        "digitalocean.com",
+        "heroku.com",
+        "vercel.com",
+        "netlify.com"
+    ],
+
+    "education": [
+        "mit.edu",
+        "stanford.edu",
+        "harvard.edu",
+        "coursera.org",
+        "edx.org",
+        "udemy.com",
+        "khanacademy.org",
+        "wikipedia.org"
+    ],
+
+    "travel": [
+        "makemytrip.com",
+        "goibibo.com",
+        "booking.com",
+        "airbnb.com",
+        "tripadvisor.com",
+        "irctc.co.in"
+    ],
+
+    "communication": [
+        "whatsapp.com",
+        "telegram.org",
+        "zoom.us",
+        "discord.com",
+        "slack.com",
+        "skype.com"
+    ],
+
+    "productivity": [
+        "notion.so",
+        "dropbox.com",
+        "drive.google.com",
+        "docs.google.com",
+        "office.com",
+        "outlook.com",
+        "proton.me"
+    ]
+}
